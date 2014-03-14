@@ -9,7 +9,7 @@
 	insert  into `rplduatiga`(`nim`,`nama`,`kelas`,`username`) values ('10110183','Aghnat Fikkri Rakarisa','IF-5','aghfi');
 	insert  into `rplduatiga`(`nim`,`nama`,`kelas`,`username`) values ('10110199','Muhammad Lukman','IF-5','muhammadlukman099');
 	insert  into `rplduatiga`(`nim`,`nama`,`kelas`,`username`) values ('10110198','Andri Sandria Yuwana','IF-5','andryabelz');
-	insert  into `rplduatiga`(`nim`,`nama`,`kelas`,`username`) values ('101101210','Randy Priyambodo Wiratma','IF-5','Randywiratma');
+	insert  into `rplduatiga`(`nim`,`nama`,`kelas`,`username`) values ('10110210','Randy Priyambodo Wiratma','IF-5','Randywiratma');
 
  	/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
  	/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
